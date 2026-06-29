@@ -27,11 +27,30 @@ concepts, in my own words.
 Modes built and working: **Define→Term**, **Term→Define**, **Similar
 Terms** (biases distractors toward the same confusable group), **Hard
 Mode** (type the answer), **Flashcards**, **Missed Review** (a term clears
-once you get it right twice in a row), **Search**, and a **Dashboard**
-(accuracy, mastery count, most-missed terms). A term is "mastered" after
-three correct answers in a row.
+once you get it right twice in a row), **Final Review**, **Search**, and a
+**Dashboard** (accuracy, mastery count, most-missed terms/questions). A
+term is "mastered" after three correct answers in a row.
 
-**Not yet included:** the full vocabulary list and the 70 exam-style
+### Final Review tab
+
+A new **Final Review** section quizzes from a 25-question bank covering
+Chapter 4 (job analysis, job descriptions/specifications, talent
+inventories, succession planning, job design — enrichment / enlargement /
+rotation, organizational structure, policies/procedures/rules) plus extra
+review topics pulled forward from later chapters: opportunity bias (Ch. 8),
+the Kirkpatrick training-evaluation model (Ch. 7), safety culture (Ch. 12),
+functional vs. dysfunctional stress (Ch. 12), and legitimating tactics
+(Ch. 13).
+
+It behaves like the other quiz modes: one question at a time, immediate
+correct/incorrect feedback, an explanation, and a line connecting the
+question back to your vocabulary deck where a matching term already
+exists. Missed questions resurface more often (spaced-repetition style)
+until answered correctly twice in a row; a question is "mastered" after
+two correct answers in a row. Its own stats show up on the Dashboard tab
+under "Final assessment review."
+
+**Not yet included:** the full vocabulary list and the original 70 exam
 questions, since those source files weren't uploaded.
 
 ## To add your real content
